@@ -15,7 +15,7 @@ primary audience is.*
 | Repository URL |  https://github.com/su2code/SU2  |
 | Main/documentation website | [Main](https://su2code.github.io/) + [Documentation](https://su2code.github.io/docs_v7/home/) ) |
 | Year project was started | 2013  |
-| Number of contributors in the past year | |
+| Number of contributors in the past year | 3118 |
 | Number of contributors in the lifetime of the project | 14,827 |
 | Number of distinct affiliations | 6-10 (Stanford, Bosch, Airbus, University of Twente, etc.) |
 | Where do development discussions take place? | [Slack](https://join.slack.com/t/su2devteam/shared_invite/zt-af0uuqf8-8XNExKMV9G~UVsnkvi5uVA)  |
