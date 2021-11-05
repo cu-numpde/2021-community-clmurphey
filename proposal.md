@@ -13,7 +13,7 @@ primary audience is.*
 | Description | Your answer |
 |---------|-----------|
 | Repository URL |  https://github.com/su2code/SU2  |
-| Main/documentation website | [Main](https://su2code.github.io/) + [Documentation](https://su2code.github.io/docs_v7/home/) ) |
+| Main/documentation website | [Main](https://su2code.github.io/) + [Documentation](https://su2code.github.io/docs_v7/home/)  |
 | Year project was started | 2013  |
 | Number of contributors in the past year | 3118 |
 | Number of contributors in the lifetime of the project | 14,827 |
