@@ -13,12 +13,12 @@ primary audience is.*
 | Description | Your answer |
 |---------|-----------|
 | Repository URL |  https://github.com/su2code/SU2  |
-| Main/documentation website | [Main](https://su2code.github.io/) + [Documentation](https://su2code.github.io/docs_v7/home/) ) |
+| Main/documentation website | [Main](https://su2code.github.io/) + [Documentation](https://su2code.github.io/docs_v7/home/)  |
 | Year project was started | 2013  |
-| Number of contributors in the past year | |
+| Number of contributors in the past year | 3118 |
 | Number of contributors in the lifetime of the project | 14,827 |
 | Number of distinct affiliations | 6-10 (Stanford, Bosch, Airbus, University of Twente, etc.) |
-| Where do development discussions take place? | [Slack](https://join.slack.com/t/su2devteam/shared_invite/zt-af0uuqf8-8XNExKMV9G~UVsnkvi5uVA)  |
+| Where do development discussions take place? | [Slack](https://join.slack.com/t/su2devteam/shared_invite/zt-af0uuqf8-8XNExKMV9G~UVsnkvi5uVA), [CFD Online](https://www.cfd-online.com/Forums/su2/), and GitHub Issues|
 | Typical number of emails/comments per week? | ~10-20 |
 | Typical number of commits per week? | ~30 (min 8, max 95)  |
 | Typical commit size | ~100 - 200 lines inserted (max 1294, min 1)|
