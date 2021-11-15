@@ -18,7 +18,7 @@ primary audience is.*
 | Number of contributors in the past year | 3118 |
 | Number of contributors in the lifetime of the project | 14,827 |
 | Number of distinct affiliations | 6-10 (Stanford, Bosch, Airbus, University of Twente, etc.) |
-| Where do development discussions take place? | [Slack](https://join.slack.com/t/su2devteam/shared_invite/zt-af0uuqf8-8XNExKMV9G~UVsnkvi5uVA), [CFD Online](https://www.cfd-online.com/Forums/su2/), and GitHub Issues|
+| Where do development discussions take place? | [Slack](https://join.slack.com/t/su2devteam/shared_invite/zt-af0uuqf8-8XNExKMV9G~UVsnkvi5uVA), [CFD Online](https://www.cfd-online.com/Forums/su2/), and GitHub [Issues/Discussions](https://github.com/su2code/SU2/discussions)|
 | Typical number of emails/comments per week? | ~10-20 |
 | Typical number of commits per week? | ~30 (min 8, max 95)  |
 | Typical commit size | ~100 - 200 lines inserted (max 1294, min 1)|
@@ -56,3 +56,7 @@ affirm a [developer's certificate of
 origin (DCO)](https://en.wikipedia.org/wiki/Developer_Certificate_of_Origin),
 etc.  If you have concerns about this, please note them and/or reach
 out to Jed directly.
+
+---
+### Community Engagement
+I created a discussion [here](https://github.com/su2code/SU2/discussions/1441#discussion-3686823) and posted to the SU2 slack [here](https://su2devteam.slack.com/archives/C2A1JLGDR/p1636657760008000).
